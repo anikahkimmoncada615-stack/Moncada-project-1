@@ -225,3 +225,13 @@ nav a {
 nav a:hover {
     color: #d46a96;
 }
+@media (max-width: 600px) {
+    nav {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+}

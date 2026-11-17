@@ -218,3 +218,10 @@ section h2 {
     text-align: center;
     margin-bottom: 20px;
 }
+nav a {
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #d46a96;
+}

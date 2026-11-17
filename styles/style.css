@@ -172,9 +172,11 @@ h2 span {
 
 footer {
     text-align: center;
-    padding: 22px;
-    background-color: #e9b8cc;
-    color: #684456;
+    padding: 20px;
+    background-color: #fce4ec;
+    color: #8e536b;
+    font-size: 14px;
+    border-top: 1px solid #f3c6d8;
 }
 
 @media (max-width: 600px) {

@@ -201,3 +201,11 @@ footer {
 html {
     scroll-behavior: smooth;
 }
+button {
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-3px);
+}
